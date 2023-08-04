@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Nghia]!
+# Hi there 👋, I'm Nghia!
 
 🔭 I'm an AI engineer currently working on implementing and improving cutting-edge AI and machine learning technologies.
 
