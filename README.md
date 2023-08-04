@@ -21,4 +21,7 @@ I'm passionate about AI/ML, constantly exploring new technologies, algorithms an
 
 - 📩 Feel free to reach me at hoangnghia.uet@mail.com
 - 💼 Connect with me on ([LinkedIn](https://www.linkedin.com/in/deptraicucmanh/))
+
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nghiauet&hide=contribs&count_private=True&show_icons=True&theme=tokyonight)
