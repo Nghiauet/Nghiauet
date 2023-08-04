@@ -1,0 +1,23 @@
+# Hi there 👋, I'm [Nghia]!
+
+🔭 I'm an AI engineer currently working on implementing and improving cutting-edge AI and machine learning technologies.
+
+## About me 
+
+I'm passionate about AI/ML, constantly exploring new technologies, algorithms and libraries. I'm skilled in Python, TensorFlow, PyTorch, Keras and other AI/ML toolkits. I believe in the power of AI to solve complex problems that can make a difference in the world.
+
+- 🌱 I’m currently learning advanced reinforcement learning and computer vision techniques.
+- 🤔 I’m looking for challenging AI projects and collaborations.
+
+## Skills 
+
+- Machine Learning, Deep Learning
+- Natural Language Processing
+- Computer Vision
+- Python, TensorFlow, PyTorch, Keras
+
+
+## Connect with me
+
+- 📩 Feel free to reach me at hoangnghia.uet@mail.com
+- 💼 Connect with me on [LinkedIn]([linkedin-profile-link](https://www.linkedin.com/in/deptraicucmanh/)https://www.linkedin.com/in/deptraicucmanh/)
