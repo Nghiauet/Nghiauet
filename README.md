@@ -6,7 +6,7 @@
 
 I'm passionate about AI/ML, constantly exploring new technologies, algorithms and libraries. I'm skilled in Python, TensorFlow, PyTorch, Keras and other AI/ML toolkits. I believe in the power of AI to solve complex problems that can make a difference in the world.
 
-- 🌱 I’m currently learning advanced reinforcement learning and computer vision techniques.
+- 🌱 I’m currently learning about deploy and optimization model.
 - 🤔 I’m looking for challenging AI projects and collaborations.
 
 ## Skills 
