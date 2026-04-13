@@ -19,7 +19,6 @@ I'm passionate about AI/ML, constantly exploring new technologies, algorithms an
 
 ## Connect with me
 
-- 📩 Feel free to reach me at hoangnghia.uet@mail.com
 - 💼 Connect with me on ([LinkedIn](https://www.linkedin.com/in/deptraicucmanh/))
 
 
