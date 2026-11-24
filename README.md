@@ -10,8 +10,7 @@ and contribute fixes and Vietnamese language support to the open-source tools I 
   so you can run a smart home in Vietnamese.
 - **Fixing bugs I hit in my own logs.** Small, tested patches to the integrations I run
   (Home Assistant `xiaomi_miio`, Ollama).
-- **Kaggle:** Competitions Expert, 2 silver medals.
-  <!-- TODO(owner): add your Kaggle profile link here: https://www.kaggle.com/<username> -->
+- **Kaggle:** [Competitions Expert](https://www.kaggle.com/phnghiapro), 2 silver medals.
 
 ## Projects
 
@@ -23,6 +22,13 @@ and contribute fixes and Vietnamese language support to the open-source tools I 
 | [angi](https://github.com/Nghiauet/angi) | *Hôm nay ăn gì?* A sassy lunch picker on a self-hosted LLM (Ollama, FastAPI) · [live](https://angi.wakeuplate.io.vn/) |
 
 ## Open-source contributions
+
+In review:
+
+- [OHF-Voice/intents#4359](https://github.com/OHF-Voice/intents/pull/4359): Vietnamese sentences for setting fan speed
+- [home-assistant/core#194082](https://github.com/home-assistant/core/pull/194082): mark the xiaomi_miio vacuum action fields as required
+
+Merged:
 
 - [openai/openai-cookbook#912](https://github.com/openai/openai-cookbook/pull/912): migrated the streaming notebook to the openai 1.x SDK
 - [tranhuuhuy297/cliccy#5](https://github.com/tranhuuhuy297/cliccy/pull/5): faster hotkey handling through socket IPC (Rust)
