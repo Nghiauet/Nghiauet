@@ -1,26 +1,36 @@
-# Hi there 👋, I'm Nghia!
+# Hi, I'm Nghia 👋
 
-🔭 I'm an AI engineer currently working on implementing and improving cutting-edge AI and machine learning technologies.
+AI engineer in Vietnam. I build data tools for the Vietnamese market, run my own home server,
+and contribute fixes and Vietnamese language support to the open-source tools I use every day.
 
-## About me 
+## Now
 
-I'm passionate about AI/ML, constantly exploring new technologies, algorithms and libraries. I'm skilled in Python, TensorFlow, PyTorch, Keras and other AI/ML toolkits. I believe in the power of AI to solve complex problems that can make a difference in the world.
+- **Vietnamese voice control for Home Assistant.** Vietnamese had no active contributor since 2024.
+  I'm filling in the missing intents in [OHF-Voice/intents](https://github.com/OHF-Voice/intents)
+  so you can run a smart home in Vietnamese.
+- **Fixing bugs I hit in my own logs.** Small, tested patches to the integrations I run
+  (Home Assistant `xiaomi_miio`, Ollama).
+- **Kaggle:** Competitions Expert, 2 silver medals.
+  <!-- TODO(owner): add your Kaggle profile link here: https://www.kaggle.com/<username> -->
 
-- 🌱 I’m currently learning about deploy and optimization model.
-- 🤔 I’m looking for challenging AI projects and collaborations.
+## Projects
 
-## Skills 
+| Project | What it does |
+| --- | --- |
+| [finance-news-scraper](https://github.com/Nghiauet/finance-news-scraper) | Vietnamese finance news → structured data (FastAPI, Redis, LLM extraction) |
+| [finance-ssc-scraper](https://github.com/Nghiauet/finance-ssc-scraper) | Financial reports from Vietnam's SSC → PostgreSQL |
+| [GPU-monitor](https://github.com/Nghiauet/GPU-monitor) | `nvidia-smi` across many servers over SSH → SQLite → React dashboard |
+| [angi](https://github.com/Nghiauet/angi) | *Hôm nay ăn gì?* A sassy lunch picker on a self-hosted LLM (Ollama, FastAPI) · [live](https://angi.wakeuplate.io.vn/) |
 
-- Machine Learning, Deep Learning
-- Natural Language Processing
-- Computer Vision
-- Python, TensorFlow, PyTorch, Keras
+## Open-source contributions
 
+- [openai/openai-cookbook#912](https://github.com/openai/openai-cookbook/pull/912): migrated the streaming notebook to the openai 1.x SDK
+- [tranhuuhuy297/cliccy#5](https://github.com/tranhuuhuy297/cliccy/pull/5): faster hotkey handling through socket IPC (Rust)
 
-## Connect with me
+## Stack
 
-- 💼 Connect with me on ([LinkedIn](https://www.linkedin.com/in/deptraicucmanh/))
+Python (FastAPI, PyTorch) · TypeScript / Next.js · Go · Docker · PostgreSQL · Nginx · self-hosting on Linux
 
+## Elsewhere
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nghiauet&hide=contribs&count_private=True&show_icons=True&theme=tokyonight)
+[LinkedIn](https://www.linkedin.com/in/deptraicucmanh/)
