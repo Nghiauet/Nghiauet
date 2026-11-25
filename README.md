@@ -27,6 +27,8 @@ In review:
 
 - [OHF-Voice/intents#4362](https://github.com/OHF-Voice/intents/pull/4362): fix the Vietnamese skip words so "giúp tôi" / "cho tôi" are understood
 - [home-assistant/core#194441](https://github.com/home-assistant/core/pull/194441): xiaomi_miio: treat network errors as "unavailable" instead of logging a traceback every poll
+- [Kaggle/kaggle-cli#1258](https://github.com/Kaggle/kaggle-cli/pull/1258): fix the broken `competitions pages` command
+- [n8n-io/n8n-docs#5815](https://github.com/n8n-io/n8n-docs/pull/5815): correct the Telegram Send Message Parse Mode default in the docs
 
 Merged:
 
