@@ -6,7 +6,7 @@ and contribute fixes and Vietnamese language support to the open-source tools I 
 ## Now
 
 - **Vietnamese voice control for Home Assistant.** Vietnamese had no active contributor since 2024.
-  I'm filling in the missing intents in [OHF-Voice/intents](https://github.com/OHF-Voice/intents)
+  My first Vietnamese intent is merged in [OHF-Voice/intents](https://github.com/OHF-Voice/intents), and I'm adding the rest
   so you can run a smart home in Vietnamese.
 - **Fixing bugs I hit in my own logs.** Small, tested patches to the integrations I run
   (Home Assistant `xiaomi_miio`, Ollama).
@@ -23,15 +23,18 @@ and contribute fixes and Vietnamese language support to the open-source tools I 
 
 ## Open-source contributions
 
-In review:
-
-- [OHF-Voice/intents#4359](https://github.com/OHF-Voice/intents/pull/4359): Vietnamese sentences for setting fan speed
-- [home-assistant/core#194082](https://github.com/home-assistant/core/pull/194082): mark the xiaomi_miio vacuum action fields as required
-
 Merged:
 
-- [openai/openai-cookbook#912](https://github.com/openai/openai-cookbook/pull/912): migrated the streaming notebook to the openai 1.x SDK
+- [OHF-Voice/intents#4359](https://github.com/OHF-Voice/intents/pull/4359): Vietnamese sentences for setting fan speed (Home Assistant voice)
+- [home-assistant/core#194082](https://github.com/home-assistant/core/pull/194082): mark the xiaomi_miio vacuum action fields as required
 - [tranhuuhuy297/cliccy#5](https://github.com/tranhuuhuy297/cliccy/pull/5): faster hotkey handling through socket IPC (Rust)
+- [openai/openai-cookbook#912](https://github.com/openai/openai-cookbook/pull/912): migrated the streaming notebook to the openai 1.x SDK
+- [docker/docs#16426](https://github.com/docker/docs/pull/16426): corrected the `docker compose` command in the docs
+
+Reviewed (merged):
+
+- [home-assistant/core#193320](https://github.com/home-assistant/core/pull/193320): Telegram bot `chat_action` field marked required
+- [home-assistant/core#193437](https://github.com/home-assistant/core/pull/193437): lazy discover for the Xiaomi Air Purifier 3H
 
 ## Stack
 
