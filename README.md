@@ -36,6 +36,10 @@ Reviewed (merged):
 - [home-assistant/core#193320](https://github.com/home-assistant/core/pull/193320): Telegram bot `chat_action` field marked required
 - [home-assistant/core#193437](https://github.com/home-assistant/core/pull/193437): lazy discover for the Xiaomi Air Purifier 3H
 
+Bugs reported (fixed upstream):
+
+- [router-for-me/CLIProxyAPI#8012](https://github.com/router-for-me/CLIProxyAPI/issues/8012): `gpt-6.1-terra` was listed for Codex Free logins but the backend rejected it; fixed in [5b857ec](https://github.com/router-for-me/CLIProxyAPI/commit/5b857eccbf9e793f34caa910ae55ce4fa66a1057)
+
 ## Stack
 
 Python (FastAPI, PyTorch) · TypeScript / Next.js · Go · Docker · PostgreSQL · Nginx · self-hosting on Linux
