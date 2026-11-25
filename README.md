@@ -23,6 +23,10 @@ and contribute fixes and Vietnamese language support to the open-source tools I 
 
 ## Open-source contributions
 
+In review:
+
+- [OHF-Voice/intents#4362](https://github.com/OHF-Voice/intents/pull/4362): fix the Vietnamese skip words so "giúp tôi" / "cho tôi" are understood
+
 Merged:
 
 - [OHF-Voice/intents#4359](https://github.com/OHF-Voice/intents/pull/4359): Vietnamese sentences for setting fan speed (Home Assistant voice)
