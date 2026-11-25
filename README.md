@@ -26,6 +26,7 @@ and contribute fixes and Vietnamese language support to the open-source tools I 
 In review:
 
 - [OHF-Voice/intents#4362](https://github.com/OHF-Voice/intents/pull/4362): fix the Vietnamese skip words so "giúp tôi" / "cho tôi" are understood
+- [home-assistant/core#194441](https://github.com/home-assistant/core/pull/194441): xiaomi_miio: treat network errors as "unavailable" instead of logging a traceback every poll
 
 Merged:
 
